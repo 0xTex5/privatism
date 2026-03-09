@@ -1,5 +1,5 @@
 # Privatism
-#### How to privatize your digital life 101: even if you have ADHD, OCD, or Autism.
+#### how to privatize your digital life 101:
 
 ## Prerequisites
 You should have decent computer experience, such as browsing the web, reading emails, and deleting files off of your computer.
