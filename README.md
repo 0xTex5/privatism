@@ -16,7 +16,9 @@ DON'T USE:
 * Edge
 * Firefox
 * Safari
+
 Those are the main 5 that track you.
+
 Some safer alternatives are:
 * Brave Browser (it still tracks you but it's better than others)
 * [Helium](https://helium.computer/). This is the option I would recommend most people.
