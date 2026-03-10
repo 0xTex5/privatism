@@ -20,8 +20,9 @@ DON'T USE:
 Those are the main 5 that track you.
 
 Some safer alternatives are:
-* Brave Browser (it still tracks you but it's better than others)
 * [Helium](https://helium.computer/). This is the option I would recommend most people.
+* Pale Moon (I wouldn't recommend this, it is incredibly out of date)
+* [Kagi Orion](https://orionbrowser.com) This is a great option if you are on Mac or iPhone. No Windows or Linux support.
 
 But the MOST secure browser, with reasonable convenience is Ungoogled Chromium.
 
@@ -43,13 +44,13 @@ I would not recommend Tor for daily use however, because it is INCREDIBLY slow, 
 If you use Tor as a daily driver, get prepared for a TON of Captchas.
 
 TLDR:
-Use [Helium](https://helium.computer/) or [Ungoogled Chromium](https://github.com/ungoogled-software/ungoogled-chromium).
+Use [Orion](https://helium.computer/), [Orion](https://orionbrowser.com/), or [Ungoogled Chromium](https://github.com/ungoogled-software/ungoogled-chromium).
 For more secure browsing, like _YARYARYARHARHARHAR_, use [Tor Browser](https://www.torproject.org/download/).
 
 To install any of the search engines, look up the name of your browser, "install", and the platform you're on.
 
-I'll leave this section off with an [article](https://discuss.privacyguides.net/t/browser-connected-domains-telemetry-test-2025-by-sizeofcat/26866) of how much each browser tracks you.
-The original article is by sizeof.cat, but he archived his website.
+I'll leave this section off with an [article](https://archive.ph/Z3QHy) of how much each browser tracks you.
+The original article is by sizeof.cat, but he removed his website, so this is an archive.
 
 
 ## Searching the Web
